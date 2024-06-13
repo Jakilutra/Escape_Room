@@ -128,6 +128,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 176354509}
     m_Modifications:
+    - target: {fileID: 2507111283270464817, guid: f6a6b04d1b7c2714c97bfb350d78ff47, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 6227f4500938eb44c811922db8f4fd11, type: 2}
     - target: {fileID: 3982298371509167203, guid: f6a6b04d1b7c2714c97bfb350d78ff47, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -251,11 +255,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
+  - {fileID: 1808634792}
   - {fileID: 6666292740506003158}
   - {fileID: 5620991358466201660}
   - {fileID: 369596180}
   - {fileID: 198609655}
-  - {fileID: 1808634792}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &55932813
@@ -470,6 +474,10 @@ PrefabInstance:
       propertyPath: m_Size.y
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 6987819102032999366, guid: 2f247d3d19a036d4abc28bfa3c461f95, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 20bb6753e7cf2704f8ed02a796a31f80, type: 2}
     - target: {fileID: 8460760495867484164, guid: 2f247d3d19a036d4abc28bfa3c461f95, type: 3}
       propertyPath: m_LocalPosition.x
       value: 2.2458787
@@ -880,6 +888,10 @@ PrefabInstance:
       propertyPath: m_SortingOrder
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4296283031985025506, guid: 5412e6b7cfbef9a4b90728dd2df19677, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: d2293443e61752d48b180ffbb5f93c30, type: 2}
     - target: {fileID: 5228961454465533355, guid: 5412e6b7cfbef9a4b90728dd2df19677, type: 3}
       propertyPath: m_Name
       value: Floor_Fuel
@@ -1134,6 +1146,10 @@ PrefabInstance:
       propertyPath: m_DrawMode
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 4296283031985025506, guid: 5412e6b7cfbef9a4b90728dd2df19677, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: d2293443e61752d48b180ffbb5f93c30, type: 2}
     - target: {fileID: 5228961454465533355, guid: 5412e6b7cfbef9a4b90728dd2df19677, type: 3}
       propertyPath: m_Name
       value: Floor_Dock
@@ -1244,6 +1260,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 176354509}
     m_Modifications:
+    - target: {fileID: 2507111283270464817, guid: f6a6b04d1b7c2714c97bfb350d78ff47, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 6227f4500938eb44c811922db8f4fd11, type: 2}
     - target: {fileID: 3982298371509167203, guid: f6a6b04d1b7c2714c97bfb350d78ff47, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -2784,6 +2804,10 @@ PrefabInstance:
       propertyPath: m_Size.y
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 6987819102032999366, guid: 2f247d3d19a036d4abc28bfa3c461f95, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 20bb6753e7cf2704f8ed02a796a31f80, type: 2}
     - target: {fileID: 8460760495867484164, guid: 2f247d3d19a036d4abc28bfa3c461f95, type: 3}
       propertyPath: m_LocalPosition.x
       value: 5.2458787
@@ -4599,6 +4623,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Door-Fuel
       objectReference: {fileID: 0}
+    - target: {fileID: 6987819102032999366, guid: 2f247d3d19a036d4abc28bfa3c461f95, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 20bb6753e7cf2704f8ed02a796a31f80, type: 2}
     - target: {fileID: 8460760495867484164, guid: 2f247d3d19a036d4abc28bfa3c461f95, type: 3}
       propertyPath: m_LocalPosition.x
       value: -5.7541213
@@ -4959,6 +4987,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 176354509}
     m_Modifications:
+    - target: {fileID: 2507111283270464817, guid: f6a6b04d1b7c2714c97bfb350d78ff47, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 6227f4500938eb44c811922db8f4fd11, type: 2}
     - target: {fileID: 3982298371509167203, guid: f6a6b04d1b7c2714c97bfb350d78ff47, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -5062,6 +5094,10 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 489806856311728989, guid: 3ae56cfccd2a8884cae6474cb3796880, type: 3}
+      propertyPath: m_Type
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 489806856311728989, guid: 3ae56cfccd2a8884cae6474cb3796880, type: 3}
       propertyPath: m_Color.b
       value: 1
       objectReference: {fileID: 0}
@@ -5074,12 +5110,24 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 489806856311728989, guid: 3ae56cfccd2a8884cae6474cb3796880, type: 3}
+      propertyPath: m_DrawHalo
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 489806856311728989, guid: 3ae56cfccd2a8884cae6474cb3796880, type: 3}
       propertyPath: m_Intensity
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 489806856311728989, guid: 3ae56cfccd2a8884cae6474cb3796880, type: 3}
       propertyPath: m_Shadows.m_Type
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 489806856311728989, guid: 3ae56cfccd2a8884cae6474cb3796880, type: 3}
+      propertyPath: m_BounceIntensity
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 489806856311728989, guid: 3ae56cfccd2a8884cae6474cb3796880, type: 3}
+      propertyPath: m_Shadows.m_Resolution
+      value: -1
       objectReference: {fileID: 0}
     - target: {fileID: 5452935871132500017, guid: 3ae56cfccd2a8884cae6474cb3796880, type: 3}
       propertyPath: m_Name
